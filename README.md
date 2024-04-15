@@ -9,7 +9,9 @@
   
 **What's Included:**
 - Jupyter Notebooks: LSTM+CNN(10_Companies).ipynb: Whole code for the project.
-- Data Folder: Contains 10 preprocessed stock price data ranging from 2012 to 2020
+- Data Folder:
+   - Input file: contains 10 preprocessed stock price data ranging from 2012 to 2020.
+   - CNN+LSTM: contains prediction results of 10 stocks.
 
 **Getting Started:**
 - Download Data and script : Download both data in Input file and LSTM+CNN(10_Companies).ipynb
