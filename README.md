@@ -28,4 +28,5 @@ This is a for-educational-purposes implementation. Stock price prediction is inh
 - Experiment with different hyperparameters for the CNN and LSTM networks.
 - Explore incorporating additional features like technical indicators or market sentiment data.
 - Implement a backtesting framework to evaluate the model's performance on historical data.
-- Feel free to contribute!  We welcome pull requests and suggestions for improvement.
+
+Feel free to contribute!  We welcome pull requests and suggestions for improvement.
